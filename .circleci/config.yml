@@ -10,8 +10,4 @@ workflows:
   welcome:
     # Run the welcome/run job in its own container
     jobs:
-<<<<<<< HEAD
       - welcome/run
-=======
-      - welcome/run
->>>>>>> 510f6cdeea4742a8d834be992d618c8c83bf9180
